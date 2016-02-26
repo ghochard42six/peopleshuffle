@@ -1,0 +1,10 @@
+# IDEs
+.idea
+*.iml
+
+# Node
+node_modules
+/peopleshuffle-web/src/main/webapp/components
+
+# Java
+target
